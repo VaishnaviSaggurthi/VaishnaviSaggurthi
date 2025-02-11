@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VaishnaviSaggurthi
 - 👀 I’m interested in Coding and New Skills
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on www.linkedin.com/in/vaishnavisaggurthi
 - 📫 How to reach me vaishnavisaggurthi@gmail.com
 
 <!---
